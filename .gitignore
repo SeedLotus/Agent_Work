@@ -1,0 +1,18 @@
+# Node
+node_modules/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# General
+.DS_Store
+*.log
+*.tmp
+
+# IDE
+.vscode/
+
+# Sub-projects with their own git repositories
+projects/astrbot-plugin-recovery-bridge/
+projects/object-drum-studio-public/
