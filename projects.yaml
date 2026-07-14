@@ -5,12 +5,19 @@ projects:
   - name: astrbot-plugin-recovery-bridge
     description: AstrBot 插件：NapCat QQ 离线消息自动恢复并注入 LivingMemory 长期记忆
     path: projects/astrbot-plugin-recovery-bridge
+    repo: https://github.com/SeedLotus/astrbot_plugin_recovery_bridge.git
     status: active
+    type: submodule
+
   - name: object-drum-studio-public
     description: 浏览器里的日常物件鼓机，基于摄像头、MediaPipe 手部追踪与 HSV 颜色分割
     path: projects/object-drum-studio-public
+    repo: https://github.com/SeedLotus/ar_button.git
     status: active
+    type: submodule
+
   - name: sample-project
     description: 示例项目，说明各项目目录结构规范
     path: projects/sample-project
     status: draft
+    type: native

@@ -1,0 +1,6 @@
+[submodule "projects/astrbot-plugin-recovery-bridge"]
+	path = projects/astrbot-plugin-recovery-bridge
+	url = https://github.com/SeedLotus/astrbot_plugin_recovery_bridge.git
+[submodule "projects/object-drum-studio-public"]
+	path = projects/object-drum-studio-public
+	url = https://github.com/SeedLotus/ar_button.git

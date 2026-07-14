@@ -12,7 +12,3 @@ __pycache__/
 
 # IDE
 .vscode/
-
-# Sub-projects with their own git repositories
-projects/astrbot-plugin-recovery-bridge/
-projects/object-drum-studio-public/
