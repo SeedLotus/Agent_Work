@@ -21,3 +21,10 @@ projects:
     path: projects/sample-project
     status: draft
     type: native
+
+  - name: song-cover-display-upper
+    description: 歌曲封面显示唱片机桌面摆件的上位机（WPF + SMTC + USB 虚拟串口）
+    path: projects/song-cover-display-upper
+    repo: https://github.com/TiX233/song_cover_display_upper.git
+    status: active
+    type: submodule

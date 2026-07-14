@@ -4,3 +4,6 @@
 [submodule "projects/object-drum-studio-public"]
 	path = projects/object-drum-studio-public
 	url = https://github.com/SeedLotus/ar_button.git
+[submodule "projects/song-cover-display-upper"]
+	path = projects/song-cover-display-upper
+	url = https://github.com/TiX233/song_cover_display_upper.git
